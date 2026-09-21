@@ -55,4 +55,6 @@ Before publishing a fork or examples, check every new file for names, email addr
 
 ## License / 许可
 
-No open-source license has been selected for this package. Choose and add a license before publicly releasing or inviting reuse of the repository.
+Released under the [MIT License](LICENSE). You may use, modify, distribute, and use this project commercially as long as the copyright and license notice are retained.
+
+本项目采用 [MIT License](LICENSE)。在保留版权与许可证声明的前提下，可以使用、修改、分发和用于商业用途。
