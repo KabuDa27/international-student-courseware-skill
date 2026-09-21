@@ -1,0 +1,4 @@
+interface:
+  display_name: "课件精读与 Obsidian"
+  short_description: "像导师一样逐页精讲课件并生成可追溯的 Obsidian 笔记"
+  default_prompt: "使用 $courseware-to-obsidian 对这份课件逐页精讲，并写入对应课程的 Obsidian 文档。"
