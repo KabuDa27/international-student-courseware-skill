@@ -20,7 +20,8 @@ The skill instructions are in [SKILL.md](SKILL.md). The supporting note format a
 Clone this repository directly into a Codex skills directory:
 
 ```bash
-git clone <YOUR_REPOSITORY_URL> ~/.codex/skills/courseware-to-obsidian
+git clone https://github.com/KabuDa27/international-student-courseware-skill.git \
+  ~/.codex/skills/courseware-to-obsidian
 ```
 
 Then invoke `$courseware-to-obsidian` with a lecture PDF/PPTX and the destination course or Obsidian vault. If your Codex installation uses a different skills directory, clone the repository there instead.
