@@ -1,6 +1,6 @@
-# Courseware to Obsidian
+# 留学生课件学习 Skill
 
-A Codex skill for turning PDF/PPTX lecture slides into page-linked, tutor-style Obsidian notes. It emphasizes understanding diagrams, mechanisms, formulas, examples, and limits of each claim rather than dumping a full-page translation.
+**Courseware to Obsidian** is a Codex skill for international students who need to study English PDF/PPTX lecture slides in Chinese and maintain page-linked, tutor-style Obsidian notes. It emphasizes understanding diagrams, mechanisms, formulas, examples, and the limits of each claim rather than dumping a full-page translation.
 
 将 PDF/PPTX 课件整理为可追溯到原页的 Obsidian 精读笔记。每个实质内容页都应像单独提问该页时一样得到讲解，而不是只保留一句摘要。
 
